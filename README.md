@@ -1,5 +1,5 @@
- # Text Analysis and Natural Language Processing (NLP) Project
-
+#Text Analysis and Natural Language Processing (NLP) Project
+---
 This project focuses on analyzing text data using various Natural Language Processing (NLP) techniques. It involves entity recognition, topic modeling, text summarization, classification, and trend detection. The project is organized into distinct folders for better structure and reusability.
 
 ## Project Structure
