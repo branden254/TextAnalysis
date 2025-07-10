@@ -64,26 +64,18 @@ python -m spacy download en_core_web_sm
 The project generates the following outputs:
 - Entity distribution and details (`entity_distribution.png`, `entity_details.png`).
 <img width="1200" height="600" alt="entity_distribution" src="https://github.com/user-attachments/assets/86636d06-388e-4a3e-b15b-d12adbb226a9" />
-
 <img width="2000" height="1800" alt="entity_details" src="https://github.com/user-attachments/assets/32b4c0dc-7b71-4f57-89df-07b07680f335" />
 
-
 - Topic modeling visualizations (`topic_modeling.png`, `topic_wordclouds.png`).
-
-
-
-- Category distribution and classification results (`category_distribution.png`, `document_categories.png`).
-
 <img width="1600" height="2000" alt="topic_modeling" src="https://github.com/user-attachments/assets/07a73d26-b15f-473b-a112-63b602e92db7" />
 <img width="2000" height="400" alt="topic_wordclouds" src="https://github.com/user-attachments/assets/c4f29104-a149-4a11-b25b-fd0e9d8c9690" />
 
+- Category distribution and classification results (`category_distribution.png`, `document_categories.png`).
+<img width="1400" height="600" alt="category_distribution" src="https://github.com/user-attachments/assets/f2f626b3-73e5-4bb7-a3e9-85e5ebcc14b2" />
+<img width="1400" height="600" alt="document_categories" src="https://github.com/user-attachments/assets/45bc912b-e2a8-485c-808f-ce02719c2254" />
 
 - Emerging trend analysis (`category_trends.png`, `emerging_trends.png`).
-
-
-<img width="1400" height="600" alt="document_categories" src="https://github.com/user-attachments/assets/45bc912b-e2a8-485c-808f-ce02719c2254" />
 <img width="1200" height="600" alt="emerging_trends" src="https://github.com/user-attachments/assets/aa8474b3-3fc0-4b36-a1f2-ef79f43e5ded" />
-
 
 ## Future Enhancements
 - Incorporate more advanced models for summarization and classification.
