@@ -10,7 +10,7 @@ minima:
 markdown: kramdown
 
 url: "https://branden254.github.io/"
-baseurl: "IncentivesAnalysis/"
+baseurl: "TextAnalysis/"
 gem "github-pages", group: :jekyll_plugins
 
 github_username: branden254
